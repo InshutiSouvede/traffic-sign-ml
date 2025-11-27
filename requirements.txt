@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+opencv-python
+matplotlib
+seaborn
+flask
+flask-cors
+locust
+pillow
