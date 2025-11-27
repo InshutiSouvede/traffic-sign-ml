@@ -4,8 +4,12 @@
 End-to-end Machine Learning pipeline for Chinese traffic sign classification with production deployment.
 
 ##  Video Demo
-[YouTube Demo Link](https://youtube.com/demo)
+[Demo Link](https://shorturl.at/xz4rm)
+##  UI
+[UI GitHub Link](https://github.com/InshutiSouvede/traffic-sign-ml-ui)
 
+## LOCUST SIMULATION
+![img.png](img.png)
 ## Architecture
 - **Model**: Custom CNN with 3 convolutional blocks
 - **Framework**: TensorFlow/Keras
@@ -202,8 +206,3 @@ The system includes 3 key visualizations:
 4. Automatic evaluation and versioning
 5. Zero-downtime model swap
 
-
-## Acknowledgments
-- Chinese Traffic Sign Dataset
-- TensorFlow/Keras team
-- Open source community
